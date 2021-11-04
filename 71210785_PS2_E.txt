@@ -1,0 +1,3 @@
+gelas 2,
+karena pipa tidak bisa menyalurkan air ke gelas 3 dan 1
+sedangkan gelas 6 bisa menyalurkan air ke gelas 7
